@@ -1,6 +1,6 @@
 ### Taisenki's Babylon
 
-**Hi, there!** Here's Ewen's personal blog. Click [here](https://taisenki.github.com/).
+**Hi, there!** Here's Taisenki's personal blog. Click [here](https://taisenki.github.io/).
 
 <img src="http://chriswinterberg.com/wp-content/uploads/2013/10/coffee-shop-writing-439411_462x306.jpg">
 
