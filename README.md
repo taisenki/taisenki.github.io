@@ -9,4 +9,4 @@
 **― Henry David Thoreau, Walden: Or, Life in the Woods**
 
 
-**模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+**模板来源:  Jekyll theme Hydeout**
