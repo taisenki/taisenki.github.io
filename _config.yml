@@ -3,15 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Taisenki's Babylon
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+description:      'Taisenki's personal blog.'
+baseurl:          "/blog"
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Taisenki'
+  url:            https://github.com/taisenki
 
 paginate:         5
 
@@ -23,5 +22,5 @@ plugins:
 # Custom vars
 version:            3.4.1
 sidebar_home_link:  true
-github:
-  repo:             https://github.com/fongandrew/hydeout
+github:             https://github.com/taisenki
+  repo:             https://github.com/taisenki
