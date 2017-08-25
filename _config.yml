@@ -1,1 +1,7 @@
+markdwon: radcarpet
+exclude: ['README.md']
+
+title: Taisenki's Babylon
+description: Taisenki's personal blog.
+google_analytics: 
 theme: jekyll-theme-cayman
