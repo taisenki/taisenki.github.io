@@ -7,7 +7,7 @@ title:            "Taisenki's Babylon"
 tagline:          "A Jekyll theme"
 description:      "Taisenki's personal blog."
 url:              https://taisenki.github.io/blog
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+baseurl:          /
 
 intensedebate_comments:	true
 
@@ -26,4 +26,4 @@ plugins:
 version:            3.4.1
 sidebar_home_link:  true
 github:             
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/taisenki
