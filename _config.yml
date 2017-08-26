@@ -6,7 +6,7 @@ highlighter:  rouge
 title:            "Taisenki's Babylon"
 tagline:          "A Jekyll theme"
 description:      "Taisenki's personal blog."
-url:              https://taisenki.github.io/blog
+url:              https://taisenki.github.io
 baseurl:          /
 
 intensedebate_comments:	true
