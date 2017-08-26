@@ -6,8 +6,10 @@ highlighter:  rouge
 title:            "Taisenki's Babylon"
 tagline:          "A Jekyll theme"
 description:      "Taisenki's personal blog."
-url:              https://fongandrew.github.io/hydeout
+url:              https://taisenki.github.io/blog
 baseurl:          # the optional subpath of your site, e.g. "/blog"
+
+intensedebate_comments:	true
 
 author:
   name:           'Taisenki'
