@@ -6,7 +6,8 @@ highlighter:      rouge
 title:            Taisenki's Babylon
 tagline:          'A Jekyll theme'
 description:      'Taisenki's personal blog.'
-baseurl:          /blog
+url:              https://taisenki.github.io/
+baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Taisenki'
@@ -22,5 +23,5 @@ plugins:
 # Custom vars
 version:            3.4.1
 sidebar_home_link:  true
-github:             https://github.com/taisenki
-  repo:             https://github.com/taisenki
+github:             
+  repo:             https://github.com/fongandrew/hydeout
