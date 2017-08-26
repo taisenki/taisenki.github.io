@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Taisenki's Babylon
+tagline:          'A Jekyll theme'
+description:      'Taisenki's personal blog.'
+url:              https://taisenki.github.io/blog
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+
+author:
+  name:           'Taisenki'
+  url:            https://github.com/taisenki
+
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            3.4.1
+sidebar_home_link:  true
+github:             
+  repo:             https://github.com/fongandrew/hydeout
