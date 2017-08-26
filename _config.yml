@@ -1,12 +1,12 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Setup
 title:            Taisenki's Babylon
 tagline:          'A Jekyll theme'
 description:      'Taisenki's personal blog.'
-url:              https://taisenki.github.io/
+url:              https://taisenki.github.io/blog
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
