@@ -6,7 +6,7 @@ sidebar_link: true
 
 ### Taisenki's Babylon
 
-**Hi, there!** Here's Taisenki's personal blog. Click [here](https://taisenki.github.io/).
+**Hi, there!** Here's Taisenki's personal blog. 
 
 <img src="http://chriswinterberg.com/wp-content/uploads/2013/10/coffee-shop-writing-439411_462x306.jpg">
 
@@ -15,4 +15,4 @@ sidebar_link: true
 **― Henry David Thoreau, Walden: Or, Life in the Woods**
 
 
-**模板来源:  Jekyll theme Hydeout**
+**模板来源:  Jekyll theme [Hydeout](https://fongandrew.github.io/hydeout/).**
